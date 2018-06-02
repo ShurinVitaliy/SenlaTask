@@ -14,8 +14,12 @@ public class Task10 {
         Scanner in = new Scanner(System.in);
 
         try {
-           for (int i = 0; i < 3; i++)
+           for (int i = 0; i < 3; i++){
                arr[i]=in.nextInt();
+               if (arr[i] > 9){
+                   System.out.println("Error: value > 9");
+                   i--;}
+           }
         }
         catch (InputMismatchException e){
             System.out.println("Error: invalid input");

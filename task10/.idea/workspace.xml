@@ -16,11 +16,11 @@
       <file leaf-file-name="Task10.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Task10.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="35" column="122" lean-forward="false" selection-start-line="35" selection-start-column="122" selection-end-line="35" selection-end-column="122" />
+            <state relative-caret-position="265">
+              <caret line="24" column="55" lean-forward="true" selection-start-line="24" selection-start-column="55" selection-end-line="24" selection-end-column="55" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#611#619#0" expanded="true" />
+                <element signature="e#741#749#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -393,18 +393,18 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#611#619#0" expanded="true" />
+            <element signature="e#741#749#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Task10.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="35" column="122" lean-forward="false" selection-start-line="35" selection-start-column="122" selection-end-line="35" selection-end-column="122" />
+        <state relative-caret-position="265">
+          <caret line="24" column="55" lean-forward="true" selection-start-line="24" selection-start-column="55" selection-end-line="24" selection-end-column="55" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#611#619#0" expanded="true" />
+            <element signature="e#741#749#0" expanded="true" />
           </folding>
         </state>
       </provider>
